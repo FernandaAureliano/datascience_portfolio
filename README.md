@@ -7,7 +7,7 @@ Meu portfólio de projetos de Data Science
 </p>
 
 # Fernanda Aureliano
-<sub>*Data Scientist learner* 
+<sub>*Junior Data Scientist* 
 
 As a production engineer, master in administration and with a background in different business areas of some industries and consulting firms, I developed analytical skills, great ability to work in team environments, attention to details and critical thinking in solving problems.
 
