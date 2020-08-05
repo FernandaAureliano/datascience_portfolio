@@ -9,7 +9,7 @@ Meu portfólio de projetos de Data Science
 # Fernanda Aureliano
 <sub>*Junior Data Scientist* 
 
-As a Production Engineer and Master in Administration with a background in different business areas of some industries and consulting firms, I developed analytical skills, great ability to work in team environments, attention to details and critical thinking in solving problems.
+As a production engineer and master in administration with a background in different business areas of some industries and consulting firms, I developed analytical skills, great ability to work in team environments, attention to details and critical thinking in solving problems.
 
 My credentials include a master degree in Administration -emphasis on Finance and Management Control- from Coppead (UFRJ), the only Full-Time MBA in Brazil that follows international quality standards (listed 11 times in the FT ranking of top MBAs, since 2001), a MBA in Business Management from FGV and a bachelor´s degree in Production Engineering from UFPE. 
 
