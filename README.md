@@ -22,7 +22,7 @@ My credentials include a master degree in Administration -emphasis on Finance an
 
 ## Projects:
 
-* **Breast Cancer Project:** https://bit.ly/2Ubr5SH
+* **Machine Learning: Breast Cancer Project:** https://bit.ly/2Ubr5SH
 
 
 ---
