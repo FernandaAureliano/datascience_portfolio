@@ -1,6 +1,6 @@
 # datascience_portfolio
 Meu portfólio de projetos de Data Science
-[![author](https://img.shields.io/badge/author-fernandaaureliano-red.svg)](https://www.linkedin.com/in/fernanda-aureliano/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-fernandaaureliano-red.svg)](https://www.linkedin.com/in/fernanda-aureliano/) [![](https://img.shields.io/badge/R-3.6+-blue.svg)](https://www.r-project.org/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/FernandaAureliano/datascience_portfolio/issues)
 
 <p align="center">
   <img src="banner_portfolio_github_v2.png" >
@@ -11,7 +11,7 @@ Meu portfólio de projetos de Data Science
 
 As a production engineer, master in administration (focus on finance) and with a background in different business areas of some industries and consulting firms, I developed analytical skills, ability to work in team environments, attention to details and critical thinking in solving problems.
 
-My credentials include a master degree in Administration from Coppead (UFRJ), the only full-time MBA in Brazil that follows international quality standards (listed 11 times in the Financial Times ranking of top MBAs, since 2001), a MBA in Administratios Management from FGV and a bachelor´s degree in Production Engineering from UFPE. 
+My credentials include a master degree in Administration from Coppead (UFRJ), the only full-time MBA in Brazil that follows international quality standards (listed 11 times in the FT ranking of top MBAs, since 2001), a MBA in Administratios Management from FGV and a bachelor´s degree in Production Engineering from UFPE. 
 
 
 **Knowledge in:** R, Analytics, Machine Learning, Power BI/Tableau, Agile Methods.
