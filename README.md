@@ -3,7 +3,7 @@ Meu portfólio de projetos de Data Science
 [![author](https://img.shields.io/badge/author-fernandaaureliano-red.svg)](https://www.linkedin.com/in/fernanda-aureliano/) [![](https://img.shields.io/badge/R-3.6+-blue.svg)](https://www.r-project.org/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/FernandaAureliano/datascience_portfolio/issues)
 
 <p align="center">
-  <img src="banner_portfolio_github_v2.png" >
+  <img src="banner_portfolio_github.png" >
 </p>
 
 # Fernanda Aureliano
