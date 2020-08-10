@@ -22,8 +22,9 @@ My credentials include a master degree in Administration -emphasis on Finance an
 
 ## Projects:
 
-* **Machine Learning, Breast Cancer Project:** https://bit.ly/2C3PB3o
+* **Machine Learning: Breast Cancer Project -->** https://bit.ly/2C3PB3o
 * **Insight Problem Solving:**  --> hipoteses, validando ou nao através de graficos e etc (posso fazer no Tableau ou Power BI)
+* **Inference: Pool forecasting -->** https://bit.ly/3fMGdPm
 * **Data cleaning, Data transformation and Data Reduction:**  --> pegar um dataset confuso e deixar pronto pra modelagem
 * **Pattern Discovery in Data Mining:**
 * **Recomendation System:**
