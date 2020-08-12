@@ -26,6 +26,7 @@ My credentials include a master degree in Administration -emphasis on Finance an
 * **Insight Problem Solving -->**  hipoteses, validando ou nao através de graficos e etc (posso fazer no Tableau ou Power BI)
 * **Statistical Inference: Pool forecasting -->** https://bit.ly/3fMGdPm   (pensar em outra)
 * **Data cleaning, Data transformation and Data Reduction -->**  pegar um dataset confuso e deixar pronto pra modelagem
+* **Machine Learning: ...** --> (ver um projeto pronto, aprender e modificar)
 * **Pattern Discovery in Data Mining -->**
 * **Recomendation System -->**
 * **Times Series Forecasting: blablabla Project -->**
