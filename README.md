@@ -30,5 +30,6 @@ My credentials include a master degree in Administration -emphasis on Finance an
 * **Pattern Discovery in Data Mining -->**
 * **Recomendation System -->**
 * **Times Series Forecasting: blablabla Project -->**
+* **Data Wrangling and Modeling: Santander challenge -->**
 ---
 
