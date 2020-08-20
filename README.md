@@ -27,8 +27,8 @@ My credentials include a master degree in Administration -emphasis on Finance an
 * **Statistical Inference: Pool forecasting -->** https://bit.ly/3fMGdPm   (pensar em outra)
 * **Data cleaning, Data transformation and Data Reduction -->**  pegar um dataset confuso e deixar pronto pra modelagem
 * **Machine Learning: ...** --> (ver um projeto pronto, aprender e modificar)
-* **Pattern Discovery in Data Mining -->**
-* **Recomendation System -->**
+* **Pattern Discovery in Data Mining -->**  (tem um curso)
+* **Recomendation System -->**  (ex: netflix)
 * **Times Series Forecasting: blablabla Project -->**
 * **Data Wrangling and Modeling: Santander challenge -->**
 ---
