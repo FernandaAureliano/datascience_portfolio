@@ -24,5 +24,6 @@ My credentials include a master degree in Administration -emphasis on Finance an
 
 * **Machine Learning: Breast Cancer Diagnosis -->** https://bit.ly/2C3PB3o
 
+
 ---
 
