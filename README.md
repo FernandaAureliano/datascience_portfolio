@@ -14,7 +14,7 @@ As a production engineer and master in administration with a background in diffe
 My credentials include a master degree in Administration -emphasis on Finance and Management Control- from Coppead (UFRJ), the only Full-Time MBA in Brazil that follows international quality standards (listed 11 times in the FT ranking of top MBAs, since 2001), a MBA in Business Management from FGV and a bachelor´s degree in Production Engineering from UFPE. 
 
 
-**Knowledge in:** R, Analytics, Machine Learning, Power BI/Tableau, SQL, Spark, Agile Methods.
+**Knowledge in:** R, Python, Analytics, Machine Learning, Power BI, Tableau, SQL, Spark, Agile Methods.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/fernanda-aureliano/)
