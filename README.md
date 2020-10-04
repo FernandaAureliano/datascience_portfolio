@@ -1,5 +1,5 @@
 # datascience_portfolio
-My Data Science projects
+My Data Science projects    
 [![author](https://img.shields.io/badge/author-fernandaaureliano-red.svg)](https://www.linkedin.com/in/fernanda-aureliano/) [![](https://img.shields.io/badge/R-3.6+-blue.svg)](https://www.r-project.org/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/FernandaAureliano/datascience_portfolio/issues)
 
 <p align="center">
