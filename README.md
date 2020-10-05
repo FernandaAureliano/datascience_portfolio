@@ -1,4 +1,4 @@
-# Data Science Portfolio - Ma. Fernanda Aureliano Nepomuceno
+# Data Science Portfolio 
 I aim to generate value for people and companies through the continuous study of new tools and technologies that allow transforming data into useful information to assist in decision-making processes. This portfolio was created as a way to contribute to self-learning and for centralize projects already carried out.   
 [![author](https://img.shields.io/badge/author-fernandaaureliano-red.svg)](https://www.linkedin.com/in/fernanda-aureliano/) [![](https://img.shields.io/badge/R-3.6+-blue.svg)](https://www.r-project.org/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/FernandaAureliano/datascience_portfolio/issues)
 
@@ -6,7 +6,7 @@ I aim to generate value for people and companies through the continuous study of
   <img src="banner_portfolio_github.png" >
 </p>
 
-# Fernanda Aureliano
+# Maria Fernanda Aureliano Nepomuceno
 <sub>*Junior Data Scientist* 
 
 As a production engineer and master in administration with a background in different business areas of some industries and consulting firms, I developed analytical skills, great ability to work in team environments, attention to details and critical thinking in solving problems.
